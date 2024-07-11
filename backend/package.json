@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Server which responds to requests for address analysis. For fastest analysis having a local archive erigon node setup would be ideal. Else an alternative would be external node providers such as QuikNode/Alchemy.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.0"
+  }
+}
