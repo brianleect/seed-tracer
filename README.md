@@ -7,9 +7,8 @@ Seed Tracer is an open-source project that aims to make fund tracing accessible 
 ## Key Features
 
 1. **Fund Tracing**: Utilizes archive nodes and RPC endpoints to trace funds back to the genesis block.
-2. **Rapid Processing**: Employs binary search algorithm for quick fund tracing without need for extensive database storage.
-3. **Real-time Analysis**: Provides fast, on-demand fund tracing of addresses.
-4. **Label Integration**: Incorporates scraped labels from Etherscan to identify key entities such as mixers (tornado), bridges or centralized exchanges (CEX).
+2. **Optimized Search**: Employs binary search algorithm for on demand fund tracing without need for extensive database storage.
+3. **Label Integration**: Incorporates scraped labels from Etherscan to identify key entities such as mixers (tornado), bridges or centralized exchanges (CEX).
 
 ## Technical Approach
 
