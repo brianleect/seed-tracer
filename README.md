@@ -3,6 +3,8 @@
 ## Project Overview
 
 Seed Tracer is an open-source project that aims to make fund tracing accessible on EVM (Ethereum Virtual Machine) chains. The tool leverages archive nodes their available RPC endpoints to determine the funding source of addresses efficiently. The project is currently deployed and accessible at https://seed-tracer.vercel.app/ with support for Ethereum only currently.
+![image](https://github.com/user-attachments/assets/67e65a02-093b-4a60-a18b-802031a9ad98)
+
 
 ## Key Features
 
